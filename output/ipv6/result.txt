@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-19 18:59:52,https://www.freetv.top/migu/608807420.m3u8?migutoken=9674d857d6e43e0789d8ec76bab7cdbe190192db368f8f0e2f8018a3e2a160ee9f9ce8d41030046da2b0373378dd65c74a6af0f9a31b8828027b8367d720ea077aef2f2a08a603b4e16074c6b9$订阅源
+2026-02-21 18:41:00,https://www.freetv.top/migu/608807420.m3u8?migutoken=9674d857d6e43e0789d8ec76bab7cdbe190192db368f8f0e2f8018a3e2a160ee9f9ce8d41030046da2b0373378dd65c74a6af0f9a31b8828027b8367d720ea077aef2f2a08a603b4e16074c6b9$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=9674d857d6e43e0789d8ec76bab7cdbe190192db368f8f0e2f8018a3e2a160ee9f9ce8d41030046da2b0373378dd65c74a6af0f9a31b8828027b8367d720ea077aef2f2a08a603b4e16074c6b9$订阅源
@@ -151,8 +151,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=c505aab29000098934f
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&d=d396e340de48108a9576134d5b090354&k=60ede3db45d8640ab1db2b9f0dfa7549&t=1671539989$订阅源
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&d=d396e340de48108a9576134d5b090354&k=60ede3db45d8640ab1db2b9f0dfa7549&t=1671539989$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K%E5%8F%B0$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
@@ -169,8 +167,8 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=c505aab29000098934f
 湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=a0d3d4746f5f5ebc6256858260e7fbf0e8dcad5d53c1d3fdc9b21b845c2c11c156749647c986b592ae976e73ce070a3bf2041defd1e589e279ae7901816a6fe090249e848895b790bd8789823d$订阅源
 湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=9e0b6e23bb7725ae05db38e94560710be0065754e80ee0fe715dae0c732fefe350b5f8d87d396729f775bdbbff23ab9be7803bc3259bbcf04aeb009ddf7ef6cc8c478a5721202f4e2a0946836a$订阅源
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
+黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 重庆卫视,https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=$订阅源
@@ -229,23 +227,29 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=c505aab29000098934f
 江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=19c37a09e888f77999095afe8ca20e57a19a0440f688dadb58c1983f9c69d28a775232128771b0ac3aa7705f3da38a91ae7aadab4019cdbf668c75eb1e31c40d081b960b979564dab3c421d3f7$订阅源
 辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 辽宁卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$订阅源
+辽宁卫视,http://k.061899.xyz/k.php?id=lnws$订阅源
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86$订阅源
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
+内蒙古卫视,http://k.061899.xyz/k.php?id=nmgws$订阅源
+宁夏卫视,http://k.061899.xyz/k.php?id=nxws$订阅源
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86$订阅源
 青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=c740fc58e518a315b254873398c630ca506a9de327397b5e27a668d9c1e170b6512a1834dab3229ddc39b5a61c2ea42fae6d196a11c6d0e5e212522e6edf197f65ad9addf0b540aa6c9d4fcd3e$订阅源
 青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=7bfff5cd40297ac2c258f598f97f36a47e8d0d19763d61ff6f62aff98021e7fcafa9b64df934c1ca76302e804fb60ce17856d30a33b7965613665d25cce09f43302170684a7e39c85290af3bd3$订阅源
 青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=1f19e5986a0a2ef4e7a8d09edf9a6b8faf270d5320ef4f13eaa876ea8a3ecc2263d1cd2dacb91ceadd6c38af23137707d164462be4cee5d1357c3a8289e0f87ebbce11f5d97c0daa3ac94ae7a1$订阅源
+青海卫视,http://k.061899.xyz/k.php?id=qhws$订阅源
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86$订阅源
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=$订阅源
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
+山东卫视,http://k.061899.xyz/k.php?id=sdws$订阅源
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
 山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
+山西卫视,http://k.061899.xyz/k.php?id=sxiws$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d$订阅源
@@ -256,14 +260,19 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=c505aab29000098934f
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=09026016da7aaebfe2b5209620fc769e607da89e9872bcd4ce9a1aa613405ea811b20cce8e1b873dca65260651de86493b78c99585316805a4c193ef7565454d0b61da13cfee7568a580cd052a$订阅源
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K%E5%8F%B0$订阅源
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
+四川卫视,http://k.061899.xyz/k.php?id=scws$订阅源
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
+深圳卫视,http://k.061899.xyz/k.php?id=szws$订阅源
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86$订阅源
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86$订阅源
+天津卫视,http://k.061899.xyz/k.php?id=tjws$订阅源
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
+新疆卫视,http://k.061899.xyz/k.php?id=xjws$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
+云南卫视,http://k.061899.xyz/k.php?id=ynws$订阅源
